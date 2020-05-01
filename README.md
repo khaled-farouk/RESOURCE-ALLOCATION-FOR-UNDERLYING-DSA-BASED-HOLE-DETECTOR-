@@ -31,7 +31,7 @@ Proposed Work: evaluate objectives for each chromosome , we search for optimal s
 _____________________________________________________________
 5.Q-learning algorithm: Each generated offspring learns online in its environment and conducts a search into the finite discrete space of candidate target of SINR ,
 Proposed Work: measuring the MOS of the data traffic , depending on the evaluate Q tables , using Bellman equation For different cases of similar and dissimilar data traffic .
-![]( Graduation_project-Cognitive_radio/54228860_796268637407160_6204257800135114752_n.png )
+![]( khaled-farouk/Graduation_project-Cognitive_radio  Graduation_project-Cognitive_radio/54228860_796268637407160_6204257800135114752_n.png )
 
 __________________________________________________
 
